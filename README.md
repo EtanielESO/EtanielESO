@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EtanielESO
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning mongoDB, reactJS
+- 🌱 I’m currently learning mongoDB, VueJs
 - 💞️ I’m looking to collaborate on absolutely nothing at the moment
 - 📫 How to reach me ...
 
